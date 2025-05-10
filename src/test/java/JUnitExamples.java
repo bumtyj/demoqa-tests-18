@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.*;
 
-public class JUnitExample {
+public class JUnitExamples {
 
     @BeforeAll
     static void beforeAll() {
